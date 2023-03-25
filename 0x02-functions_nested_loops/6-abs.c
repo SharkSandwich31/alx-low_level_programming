@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * 6-abs - Computes absolute value
- * Returns the value
+ * _abs - computes the absolute value of an integer
+ * @n: the int to check
+ * Return: the absolute value of int
  */
 int _abs(int n)
 {
